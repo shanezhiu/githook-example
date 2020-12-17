@@ -4,7 +4,7 @@
 
 + `git hooks` 可以使用 `php`, `ruby`, `python`, `shell script`, `perl`， `golang` 等语言编写，语言要求很宽泛
 
-+ `git hooks` 是无法随着仓库上传的， 如果您想应用当前势力，请复制相关`hook`到项目下`.git/hooks`里
++ `git hooks` 是无法随着仓库上传的， 如果您想应用当前实例，请复制相关`hook`到项目下`.git/hooks`里
 
 + 本项目当前使用`shell script`编写实例，后续将会补全上述语言实例
 
