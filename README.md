@@ -37,3 +37,26 @@
 + [ ] `pre-receive`
 + [ ] `update`
 + [ ] `post-receive`
+
+#### 测试用例
+
++ [ ] `pre-commit`
++ [ ] `prepare-commit-msg`
++ [ ] `commit-msg`
++ [ ] `post-commit`
+
++ [ ] `applypatch-msg`
++ [ ] `pre-applypatch`
++ [ ] `post-applypatch`
+
++ [ ] `pre-rebase`
++ [ ] `post-rewrite`
++ [ ] `post-checkout`
++ [ ] `post-merge`
++ [ ] `pre-push`
++ [ ] `pre-auto-gc`
+
++ [ ] `pre-receive`
++ [ ] `update`
++ [ ] `post-receive`
+
